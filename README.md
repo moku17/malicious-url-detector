@@ -29,9 +29,7 @@ This project is a machine learning-based web application that classifies whether
 
 🛡️ 악성 URL 판별기 (Malicious URL Classifier)
 
-이 프로젝트는 사용자가 입력한 URL이 정상(benign) 인지,  
-또는 악성(phishing/malware/defacement) 인지를 분류하는  
-머신러닝 기반 웹 애플리케이션입니다.
+이 프로젝트는 사용자가 입력한 URL이 정상(benign) 인지, 또는 악성(phishing/malware/defacement) 인지를 분류하는 머신러닝 기반 웹 애플리케이션입니다.
 
 
 🔧 사용 기술
