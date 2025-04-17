@@ -15,12 +15,12 @@ Streamlit (Web UI)
 
 
 📂 Main files
+- `malicious_phish.csv` : Malicious URL dataset
+- `train_model.py` : Model training script
+- `app.py` : Streamlit web app
+- `url_model.pkl` : Saved machine learning model
+- `vectorizer.pkl` : TF-IDF vectorization tool
 
-malicious_phish.csv : Malicious URL dataset
-train_model.py : Model training script
-app.py : Streamlit web app
-url_model.pkl : Saved machine learning model
-vectorizer.pkl : TF-IDF vectorization tool
 
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 🇰🇷kor
