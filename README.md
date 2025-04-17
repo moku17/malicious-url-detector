@@ -7,11 +7,11 @@ This project is a machine learning-based web application that classifies whether
 
 🔧 Technologies used
 
-Python (3.11+)
-Scikit-learn (Logistic Regression)
-Pandas
-TfidfVectorizer
-Streamlit (Web UI)
+- Python (3.11+)
+- Scikit-learn (Logistic Regression)
+- Pandas
+- TfidfVectorizer
+- Streamlit (웹 UI)
 
 
 📂 Main files
@@ -22,7 +22,9 @@ Streamlit (Web UI)
 - `vectorizer.pkl` : TF-IDF vectorization tool
 
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+
 🇰🇷kor
 
 🛡️ 악성 URL 판별기 (Malicious URL Classifier)
