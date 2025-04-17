@@ -1,3 +1,30 @@
+🇺🇸eng
+
+🛡️ Malicious URL Classifier
+
+This project is a machine learning-based web application that classifies whether a user-entered URL is benign or malicious (phishing/malware/defacement).
+
+
+🔧 Technologies used
+
+Python (3.11+)
+Scikit-learn (Logistic Regression)
+Pandas
+TfidfVectorizer
+Streamlit (Web UI)
+
+
+📂 Main files
+
+malicious_phish.csv : Malicious URL dataset
+train_model.py : Model training script
+app.py : Streamlit web app
+url_model.pkl : Saved machine learning model
+vectorizer.pkl : TF-IDF vectorization tool
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+🇰🇷kor
+
 🛡️ 악성 URL 판별기 (Malicious URL Classifier)
 
 이 프로젝트는 사용자가 입력한 URL이 정상(benign) 인지,  
