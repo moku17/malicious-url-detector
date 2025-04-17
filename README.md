@@ -11,7 +11,7 @@ This project is a machine learning-based web application that classifies whether
 - Scikit-learn (Logistic Regression)
 - Pandas
 - TfidfVectorizer
-- Streamlit (웹 UI)
+- Streamlit (web UI)
 
 
 📂 Main files
